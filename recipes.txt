@@ -6,6 +6,8 @@ kheer
 pasta
 roti
 
+beans
+pizza
 
 
 
@@ -13,4 +15,7 @@ roti
 thank you
 
 
+done my changes
+
 final copy
+
