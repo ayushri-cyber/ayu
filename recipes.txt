@@ -6,6 +6,8 @@ kheer
 pasta
 roti
 
+beans
+pizza
 
 
 
